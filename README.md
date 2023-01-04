@@ -1,5 +1,5 @@
 # Data-Analytics-Projects
-The repository illustrates the different Data analytics projects involced data analytics journey using tools such as SQL, Python, Excel and Tableau
+The repository illustrates the different Data Analytics projects in the Data Analytics portfolio using tools such as SQL, Python, Excel and Tableau
 
 Data Life cycle:
 
